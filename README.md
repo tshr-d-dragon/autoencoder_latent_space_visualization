@@ -1,6 +1,11 @@
 # autoencoder_latent_space_visualization
 
-Training custom autoencoder on mnist dataset(28x28x1) and visualization of its latent space (d-128)
+This repo contains training of custom autoencoder on mnist dataset(28x28x1) and visualization of its latent space (d-128).
+
+## The Autoencoder model architecture is shown below:
+<p align="center">
+  <img src="https://github.com/tshr-d-dragon/autoencoder_latent_space_visualization/blob/main/autoencoder_model.png?raw=true" alt="Autoencoder"/>
+</p>
 
 ## Visualization of mnist dataset vector with d-784 (28x28x1)
 ![Image1](https://github.com/tshr-d-dragon/autoencoder_latent_space_visualization/blob/main/images/original/img_784_tsne_perplexity_50.png)
