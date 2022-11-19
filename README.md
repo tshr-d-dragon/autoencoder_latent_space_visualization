@@ -8,7 +8,7 @@ This repo contains training of custom autoencoder on mnist dataset(28x28x1) and 
 </p>
 
 ## Prediction on sample (10) Test dataset: 
-#### First row is the ground-truths and second row is predictions
+#### First row is for the ground-truths and second row is for the predictions
 ![Image1](https://github.com/tshr-d-dragon/autoencoder_latent_space_visualization/blob/main/images/prediction.png)
 
 ## Visualization of mnist dataset vector with d-784 (28x28x1) to d-2 (using TSNE):
